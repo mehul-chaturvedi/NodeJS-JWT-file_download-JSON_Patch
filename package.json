@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Mehul Chaturvedi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expect.js": "^0.3.1",
+    "express": "^4.16.4",
+    "fast-json-patch": "^2.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.6",
+    "multer": "^1.4.1",
+    "node-thumbnail": "^0.15.0"
+  }
+}
