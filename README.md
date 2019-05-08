@@ -1,6 +1,7 @@
 # NodeJS-JWT-file_download-JSON_Patch
 
 This nodejs app has following functionalities:
+
 1. JSON Web Token (JWT)
 It creates JWT when new user registers, the token expires in 24 hrs,token is given back to the user
 When user login's it creates JWT and pass it to the user to save it for future communications,
