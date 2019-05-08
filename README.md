@@ -7,7 +7,7 @@ It creates JWT when new user registers, the token expires in 24 hrs,token is giv
 When user login's it creates JWT and pass it to the user to save it for future communications,
 So whenever user tries to comminicate with server it has to give JWT to the server for verification.
 
-2.File Download using Multer
+2. File Download using Multer
 It helps in download single or multiple file send by fronend to the server.
 
 3. JSON Patch using Fast-JSON-Patch
