@@ -2,7 +2,7 @@
 
 This nodejs app has following functionalities:
 
-1. JSON Web Token (JWT)
+1. JSON Web Token (JWT) \n
 It creates JWT when new user registers, the token expires in 24 hrs,token is given back to the user
 When user login's it creates JWT and pass it to the user to save it for future communications,
 So whenever user tries to comminicate with server it has to give JWT to the server for verification.
